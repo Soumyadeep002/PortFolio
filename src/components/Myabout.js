@@ -16,17 +16,20 @@ const Myabout = forwardRef((props, ref) => {
                                 <li className="font-semibold text-xl"><div>
                                     <div className="course">B.Sc in IT (Data Science)</div>
                                     <div className="institute hidden md:block text-slate-500">Maulana Abul Kalam Azad University of Technology, West Bengal</div>
-                                    <div className="institute md:hidden text-slate-500">MAKAUT, WB</div>
+                                    <div className="institute hidden md:block text-slate-500">2021 to 2024</div>
+                                    <div className="institute md:hidden text-slate-500">MAKAUT, WB (2021 to 2024)</div>
                                     </div></li>
                                 <li className="font-semibold text-xl"><div>
                                     <div className="course">Higher Secondary</div>
                                     <div className="institute hidden md:block text-slate-500">West Bengal Council of Higher Secondary Education</div>
-                                    <div className="institute md:hidden text-slate-500">WBBCHSE</div>
+                                    <div className="institute hidden md:block text-slate-500">2019 to 2021</div>
+                                    <div className="institute md:hidden text-slate-500">WBBCHSE (2019 to 2021)</div>
                                     </div></li>
                                 <li className="font-semibold text-xl"><div>
                                     <div className="course">10th Standard </div>
                                     <div className="institute hidden md:block text-slate-500">West Bengal Board of Secondary Education </div>
-                                    <div className="institute md:hidden text-slate-500">WBBSE</div>
+                                    <div className="institute hidden md:block text-slate-500">2019</div>
+                                    <div className="institute md:hidden text-slate-500">WBBSE (2019)</div>
                                     </div></li>
                                 
                             </ul>
