@@ -4,7 +4,7 @@ const MyProjects = forwardRef((props, ref) => {
     return (
         <div ref={ref}> {/* // <!-- projects  --> */}
 
-            {/* // <!-- project for pc --> */}
+            {/* // <!-- project tree for pc --> */}
             <div className="projects-graphix hidden md:block " >
                 <div className="head flex mt-7 items-center justify-center my-8">
                     <div className="title font-bold text-7xl p-10 mt-28" >My Projects</div>
@@ -54,7 +54,7 @@ const MyProjects = forwardRef((props, ref) => {
                         <div className="box border-4 border-black p-20 text-3xl font-bold w-80 h-80 rounded-full">
                             Facial Emotion Detection
                         </div>
-                        <div className="h-3 w-14 bg-[#e7e7e7] relative -translate-x-16 -translate-y-48"></div>
+                        <div className="h-3 w-14 bg-[#a8a8a8] relative -translate-x-16 -translate-y-48"></div>
                     </div>
                 </div>
 
